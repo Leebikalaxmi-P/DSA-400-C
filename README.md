@@ -39,7 +39,7 @@ problem3.c
 
 ## 📌 Author
 
-### *** Leebika Laxmi P ***
+###  Leebika Laxmi P 
 B.Tech Artificial Intelligence and Data Science Student
 Velammal Engineering College , Chennai.
 
