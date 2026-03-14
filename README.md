@@ -1,13 +1,13 @@
-#400 DSA Problems in C
+# 400 DSA Problems in C
 
 This repository contains solutions to **400 Data Structures and Algorithms problems** implemented in the C programming language.
 The purpose of this repository is to improve problem-solving skills, strengthen programming fundamentals, and build a strong foundation in DSA.
 
- ##📌 Language Used
+ ## 📌 Language Used
 
 * C Programming
 
- ##📌 Topics Covered
+ ## 📌 Topics Covered
 
 * Arrays
 * Strings
@@ -20,14 +20,14 @@ The purpose of this repository is to improve problem-solving skills, strengthen 
 * File Handling
 * Basic Data Structures
 
-##📌 Goal of this Repository
+## 📌 Goal of this Repository
 
 * Practice DSA regularly
 * Improve logical thinking
 * Prepare for coding interviews
 * Build a strong GitHub portfolio
 
-##📌 Folder Structure
+## 📌 Folder Structure
  
 Each file contains the solution to one problem.
 
@@ -39,7 +39,7 @@ problem3.c
 
 ## 📌 Author
 
-###***Leebika Laxmi P***
+### *** Leebika Laxmi P ***
 B.Tech Artificial Intelligence and Data Science Student
 Velammal Engineering College , Chennai.
 
